@@ -5,7 +5,6 @@ This project uses machine learning to classify sonar signals as either **mines**
 ## 📁 Project Structure
 
 - `sonar_mine_prediction.ipynb` – Main Jupyter Notebook file
-- `requirements.txt` – Required Python libraries
 - `README.md` – Project documentation (this file)
 
 ## 📊 Dataset
